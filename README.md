@@ -1,7 +1,15 @@
-# Hi there 👋
-## My name is Arnur Arykbaev and I am Frontend Developer Vue!
-My goal is to become a high-class front-end specialist. Every day I develop my skills and write code. I like to learn new technologies, and I also want to bring my learned skills to automatism. I am also learning Typescript and React Native and would like to write a project on them in the near future!
-***
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arnur</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&color=0987F7&width=675&lines=I+am+a+frontend+developer" alt="Typing SVG" /></a>
+
+<p>My goal is to become a high-class front-end specialist. Every day I develop my skills and write code. I like to learn new technologies, and I also want to bring my learned skills to automatism. I am also learning Typescript and React Native and would like to write a project on them in the near future!</p>
+
+<img height="32" width="32" background="#0000" src="https://simpleicons.now.sh/html5/E34F26" />
+<img height="32" width="32" background="#0000" src="https://simpleicons.now.sh/css3/1572B6" />
+<img height="32" width="32" background="#0000" src="https://simpleicons.now.sh/javascript/F7DF1E" />
+<img height="32" width="32" background="#0000" src="https://simpleicons.now.sh/Vue.js/F7DF1E" />
+
 ## My personal info
 
 ###### Mobile
