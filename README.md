@@ -1,7 +1,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62" /></div>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arnur</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&color=0987F7&width=675&lines=I+am+a+frontend+developer" alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&color=0987F7&width=675&lines=I+am+a+frontend+developer" alt="Typing SVG" /></a></div>
 
 <p>My goal is to become a high-class front-end specialist. Every day I develop my skills and write code. I like to learn new technologies, and I also want to bring my learned skills to automatism. I am also learning Typescript and React Native and would like to write a project on them in the near future!</p>
 </br> </br> 
@@ -9,19 +9,29 @@
 
 
 ***
-## My personal info
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F6F6F6&animation=twinkling&height=100&section=header&text=Contact%20info&fontSize=25" />
 
-###### Mobile
-+7-707-945-49-82
-###### E-mail
-arnurarykbayev@mail.ru
-###### Linkedn
-www.linkedin.com/in/arnurarb
-###### Telegram
-@ArnurArb
+
+<div style="margin-bottom:10px">
+    <p style="color:#0987F7;margin-bottom:0;font-size:10px">Mobile</p>
+    <a style="color:#ffff; font-weight:300">+7-707-945-49-82</a>
+</div>
+<div style="margin-bottom:10px">
+    <p style="color:#0987F7;margin-bottom:0;font-size:10px">E-mail</p>
+    <a style="color:#ffff; font-weight:300" href="arnurarykbayev@mail.ru">arnurarykbayev@mail.ru</a>
+</div>
+<div style="margin-bottom:10px">
+    <p style="color:#0987F7;margin-bottom:0;font-size:10px">Linkedn</p>
+    <a style="color:#ffff; font-weight:300" href="www.linkedin.com/in/arnurarb">www.linkedin.com/in/arnurarb</a>
+</div>
+<div style="margin-bottom:10px">
+    <p style="color:#0987F7;margin-bottom:0;font-size:10px">Telegram</p>
+    <a style="color:#ffff; font-weight:300" href="http://t.me/ArnurArb">@ArnurArb</a>
+</div>
 
 ***
-## My experience
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F6F6F6&height=100&animation=twinkling&section=header&text=Experience&fontSize=25" />
+
 ### Freelance (Frontend dev)
 ###### May 2022 - Aug 2022
 Wrote HTML letters and landing pages, edited websites, wrote
@@ -37,14 +47,15 @@ and site upload to WordPress (without landing).
 ### AST-company (public procurement specialist)
 ###### Aug 2017 - Jun 2019
 ***
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F6F6F6&height=100&animation=twinkling&section=header&text=Education&fontSize=25" />
 
-## My education
 ### Master of Economics (Omsk State Agrarian University named after P.A. Stolypin)
 ###### 2017-2020 
 ### Bachelor of Tourism (North Kazakhstan State University named after M. Kozybayev)
 ###### 2013-2017 
 ***
-## My projects
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F6F6F6&height=100&animation=twinkling&section=header&text=Projects&fontSize=25" />
+
 ### Movies App
 ###### Vue, Vuex, Vue-Bootstrap,Vue-Router, Axios
 App top 250 movies. In this project you can watch
