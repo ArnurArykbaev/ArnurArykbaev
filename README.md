@@ -35,7 +35,7 @@
 </br>
 
 ***
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&animation=twinkling&height=100&section=header&text=Contact%20info&fontSize=25" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&animation=twinkling&height=100&section=header&text=Contact%20info&fontSize=25" /></div>
 
 
 <div style="margin-bottom:10px">
@@ -56,7 +56,7 @@
 </div>
 
 ***
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&height=100&animation=twinkling&section=header&text=Resume&fontSize=25" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&height=100&animation=twinkling&section=header&text=Resume&fontSize=25" /></div>
 
 <div style="margin-bottom:10px">
     <a style="color:#0987F7;margin-bottom:0;font-size:12px" href="https://drive.google.com/file/d/1Yrp7Qj8Xdx7gYG5yzPGwgxCICX7zNd_p/view?usp=sharing">Arnur Frontend dev resume</a>
@@ -65,12 +65,12 @@
 </div>
 
 ***
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&height=100&animation=twinkling&section=header&text=Projects&fontSize=25" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&height=100&animation=twinkling&section=header&text=Projects&fontSize=25" /></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnurArykbaev&theme=graywhite&layout=compact)](https://github.com/ArnurArykbaev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnurArykbaev&theme=graywhite&layout=compact)](https://github.com/ArnurArykbaev/github-readme-stats)  
 [![codewars](https://www.codewars.com/users/Arnur%20Arykbaev/badges/small)](https://www.codewars.com/users/Arnur%20Arykbaev) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=moviesApp&theme=graywhite)](https://github.com/ArnurArykbaev/moviesApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=budgetApp&theme=graywhite)](https://github.com/ArnurArykbaev/budgetApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=todoList-Application&theme=graywhite)](https://github.com/ArnurArykbaev/todoList-Application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=loginPage-Apllication&theme=graywhite)](https://github.com/ArnurArykbaev/loginPage-Apllication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=moviesApp&theme=graywhite)](https://github.com/ArnurArykbaev/moviesApp)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=budgetApp&theme=graywhite)](https://github.com/ArnurArykbaev/budgetApp)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=todoList-Application&theme=graywhite)](https://github.com/ArnurArykbaev/todoList-Application)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=loginPage-Apllication&theme=graywhite)](https://github.com/ArnurArykbaev/loginPage-Apllication)  
