@@ -66,7 +66,7 @@
 ***
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&height=100&animation=twinkling&section=header&text=Projects&fontSize=25" /></div>
 
-[![codewars](https://www.codewars.com/users/Arnur%20Arykbaev/badges/small)](https://www.codewars.com/users/Arnur%20Arykbaev) 
+[![codewars](https://www.codewars.com/users/Arnur%20Arykbaev/badges/small)](https://www.codewars.com/users/Arnur%20Arykbaev)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnurArykbaev&theme=graywhite&layout=compact)](https://github.com/ArnurArykbaev/github-readme-stats)  
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=moviesApp&theme=graywhite)](https://github.com/ArnurArykbaev/moviesApp)  
