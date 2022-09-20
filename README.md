@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62" /></div>
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arnur</a> 
+<h1 align="center">Hi there, I'm <a target="_blank">Arnur</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&color=0987F7&width=675&lines=I+am+a+frontend+developer" alt="Typing SVG" /></a></div>
 
