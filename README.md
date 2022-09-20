@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=anuraghazra)
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62" /></div>
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Arnur</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -67,10 +66,10 @@
 ***
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&height=100&animation=twinkling&section=header&text=Projects&fontSize=25" /></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnurArykbaev&theme=graywhite&layout=compact)](https://github.com/ArnurArykbaev/github-readme-stats)  
 [![codewars](https://www.codewars.com/users/Arnur%20Arykbaev/badges/small)](https://www.codewars.com/users/Arnur%20Arykbaev) 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=moviesApp&theme=graywhite)](https://github.com/ArnurArykbaev/moviesApp) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnurArykbaev&theme=graywhite&layout=compact)](https://github.com/ArnurArykbaev/github-readme-stats)  
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=moviesApp&theme=graywhite)](https://github.com/ArnurArykbaev/moviesApp)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=budgetApp&theme=graywhite)](https://github.com/ArnurArykbaev/budgetApp)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=todoList-Application&theme=graywhite)](https://github.com/ArnurArykbaev/todoList-Application) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=loginPage-Apllication&theme=graywhite)](https://github.com/ArnurArykbaev/loginPage-Apllication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=todoList-Application&theme=graywhite)](https://github.com/ArnurArykbaev/todoList-Application)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=loginPage-Apllication&theme=graywhite)](https://github.com/ArnurArykbaev/loginPage-Apllication)  
