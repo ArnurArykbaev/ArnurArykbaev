@@ -73,4 +73,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=budget-app&theme=graywhite)](https://github.com/ArnurArykbaev/budget-app)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=todoList-Application&theme=graywhite)](https://github.com/ArnurArykbaev/todoList-Application) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=loginPage-Apllication&theme=graywhite)](https://github.com/ArnurArykbaev/loginPage-Apllication)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=AirlineTickets&theme=graywhite)](https://github.com/ArnurArykbaev/AirlineTickets)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=AirlineTickets&theme=graywhite)](https://github.com/ArnurArykbaev/AirlineTickets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=newsScraper-Application&theme=graywhite)](https://github.com/ArnurArykbaev/newsScraper-Application)  
