@@ -69,7 +69,8 @@
 [![codewars](https://www.codewars.com/users/Arnur%20Arykbaev/badges/small)](https://www.codewars.com/users/Arnur%20Arykbaev)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnurArykbaev&theme=graywhite&layout=compact)](https://github.com/ArnurArykbaev/github-readme-stats)  
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=moviesApp&theme=graywhite)](https://github.com/ArnurArykbaev/moviesApp) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=budgetApp&theme=graywhite)](https://github.com/ArnurArykbaev/budgetApp)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=movies-app&theme=graywhite)](https://github.com/ArnurArykbaev/movies-app) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=budget-app&theme=graywhite)](https://github.com/ArnurArykbaev/budget-app)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=todoList-Application&theme=graywhite)](https://github.com/ArnurArykbaev/todoList-Application) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=loginPage-Apllication&theme=graywhite)](https://github.com/ArnurArykbaev/loginPage-Apllication)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArnurArykbaev&repo=AirlineTickets&theme=graywhite)](https://github.com/ArnurArykbaev/AirlineTickets)  
