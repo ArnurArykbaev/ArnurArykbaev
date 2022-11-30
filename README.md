@@ -2,7 +2,6 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Arnur</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&color=0987F7&width=675&lines=I+am+a+frontend+developer" alt="Typing SVG" /></a></div>
 
-[fork my repository](https://github.com/user/repository/fork)
 
 <p>My goal is to become a high-class front-end specialist. Every day I develop my skills and write code. I like to learn new technologies, and I also want to bring my learned skills to automatism. I am also learning Typescript and React Native and would like to write a project on them in the near future!</p>
 </br> 
