@@ -3,7 +3,6 @@
 <div align="center"><a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&color=0987F7&width=675&lines=I+am+a+frontend+developer" alt="Typing SVG" /></a></div>
 
 
-<p>My goal is to become a high-class front-end specialist. Every day I develop my skills and write code. I like to learn new technologies, and I also want to bring my learned skills to automatism. I am also learning Typescript and React Native and would like to write a project on them in the near future!</p>
 </br> 
 </br> 
 
