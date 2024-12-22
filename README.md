@@ -46,7 +46,7 @@
 </div>
 <div style="margin-bottom:10px">
     <p style="color:#0987F7;margin-bottom:0;font-size:10px">Linkedn</p>
-    <a style="color:#ffff; font-weight:300" href="www.linkedin.com/in/arnurarb">www.linkedin.com/in/arnurarb</a>
+    <a style="color:#ffff; font-weight:300" href="www.linkedin.com/in/arnurarb">[www.linkedin.com/in/arnurarb](https://www.linkedin.com/in/arnurarb/)</a>
 </div>
 <div style="margin-bottom:10px">
     <p style="color:#0987F7;margin-bottom:0;font-size:10px">Telegram</p>
