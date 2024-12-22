@@ -36,21 +36,21 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D7D7D7&animation=twinkling&height=100&section=header&text=Contact%20info&fontSize=25" /></div>
 
 
-<div style="margin-bottom:10px">
-    <p style="color:#0987F7;margin-bottom:0;font-size:10px">Mobile</p>
-    <a style="color:#ffff; font-weight:300">+7-707-945-49-82</a>
+<div>
+  <p style="margin-bottom: 0; color: #0987F7; font-size: 10px;">Mobile</p>
+  <a style="color: #fff; font-weight: 300;">+7-707-945-49-82</a>
 </div>
-<div style="margin-bottom:10px">
-    <p style="color:#0987F7;margin-bottom:0;font-size:10px">E-mail</p>
-    <a style="color:#ffff; font-weight:300" href="arnurarykbayev@mail.ru">arnurarykbayev@mail.ru</a>
+<div>
+  <p style="margin-bottom: 0; color: #0987F7; font-size: 10px;">E-mail</p>
+  <a style="color: #fff; font-weight: 300;" href="mailto:arnurarykbayev@mail.ru">arnurarykbayev@mail.ru</a>
 </div>
-<div style="margin-bottom:10px">
-    <p style="color:#0987F7;margin-bottom:0;font-size:10px">Linkedn</p>
-    <a style="color:#ffff; font-weight:300" href="https://www.linkedin.com/in/arnurarb">www.linkedin.com/in/arnurarb/</a>
+<div>
+  <p style="margin-bottom: 0; color: #0987F7; font-size: 10px;">LinkedIn</p>
+  <a style="color: #fff; font-weight: 300;" href="https://www.linkedin.com/in/arnurarb">www.linkedin.com/in/arnurarb/</a>
 </div>
-<div style="margin-bottom:10px">
-    <p style="color:#0987F7;margin-bottom:0;font-size:10px">Telegram</p>
-    <a style="color:#ffff; font-weight:300" href="http://t.me/ArnurArb">@ArnurArb</a>
+<div>
+  <p style="margin-bottom: 0; color: #0987F7; font-size: 10px;">Telegram</p>
+  <a style="color: #fff; font-weight: 300;" href="http://t.me/ArnurArb">@ArnurArb</a>
 </div>
 
 ***
